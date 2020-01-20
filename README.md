@@ -1,3 +1,3 @@
 # JeuRealisation
 
-Prototype créé pour remplacer temporrairement Perforce
+Prototype créé pour remplacer temporairement Perforce
